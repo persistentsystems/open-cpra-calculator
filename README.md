@@ -1,7 +1,7 @@
 # Calculated Panel Reactive Antibodies (CPRA) Web Service
 
-[![License](http://img.shields.io/:license-MPL2-blue.svg)](https://www.github.com/persistentsystems/open-cpra-calculator/LICENSE)
-[![Notice](https://img.shields.io/badge/Notice-Healthcare%20Disclaimer-red.svg)](https://www.github.com/persistentsystems/open-cpra-calculator/HD.txt)
+[![License](http://img.shields.io/:license-MPL2-blue.svg)](https://github.com/persistentsystems/open-cpra-calculator/blob/master/LICENSE)
+[![Notice](https://img.shields.io/badge/Notice-Healthcare%20Disclaimer-red.svg)](https://github.com/persistentsystems/open-cpra-calculator/blob/master/HD.txt)
 
 
 An open-source [Spring Boot](http://projects.spring.io/spring-boot/)-based micro-service for calculating panel reactive antibodies using a list of patient antibodies. 

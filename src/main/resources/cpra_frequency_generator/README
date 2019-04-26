@@ -1,0 +1,13 @@
+Generates CSV files which can be used by the cpra web service for custom population frequencies
+
+Arguments: --input_file, --freq_name
+
+Input_file is a CSV of donor antigens to build a frequency set from, with 4 columns: A1, A2, B1, B2, where each row is a patient
+
+Script outputs to two CSV files, a frequency file, and a meta file, both required by the cpra web service
+
+The script does not edit main.csv which also needs to be modified as well
+
+Requires jinja2 package
+
+UNOS unacceptable antigen equivalencies are currently not templatable 

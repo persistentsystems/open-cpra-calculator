@@ -1,0 +1,16 @@
+#
+#    This Source Code Form is subject to the terms of the Mozilla Public License,
+#    v. 2.0. If a copy of the MPL was not distributed with this file, You can
+#    obtain one at http://mozilla.org/MPL/2.0/.
+#    A copy of the Mozilla Public License, v. 2.0 can also be found under the top
+#    level directory, named MPLv2.0.txt.
+#
+#    This software is also distributed under the terms of the Healthcare Disclaimer.
+#    A copy of the Healthcare Disclaimer can be found under the top level directory,
+#    named HD.txt, or at the project website <https://www.github.com/persistent/open-cpra-calculator>.
+#
+#    Copyright (C) 2018 Persistent Systems, Inc.
+#
+
+Jinja2==2.9.6
+MarkupSafe==1.0

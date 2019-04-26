@@ -1,0 +1,8 @@
+Copyright Notice
+----------------
+Copyright (c) 2018 Persistent Systems, Inc.
+
+----------------
+The cPRA software is distributed under the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with your software, you can obtain one at http://mozilla.org/MPL/2.0/.
+The cPRA software is also distributed under the terms of the Healthcare Disclaimer, named HD.txt under the top level directory.
+

@@ -251,6 +251,6 @@ By default the config file is "config_example.csv", located in src/main/resource
 ## License and Copyright
 
 MPL 2.0 w/ HD  
-See [LICENSE](https://www.github.com/persistentsystems/open-cpra-calculator/LICENSE) file.  
+See [LICENSE](https://github.com/persistentsystems/open-cpra-calculator/blob/master/LICENSE) file.  
 See [HEALTHCARE DISCLAIMER](https://www.github.com/persistentsystems/open-cpra-calculator/HD.txt) file.  
-© Persistent Systems, Inc. (https://www.github.com/persistentsystems/open-cpra-calculator)
+© Persistent Systems, Inc. (https://github.com/persistentsystems/open-cpra-calculator/blob/master/HD.txt)

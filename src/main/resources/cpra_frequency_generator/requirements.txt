@@ -12,5 +12,5 @@
 #    Copyright (C) 2018 Persistent Systems, Inc.
 #
 
-Jinja2==2.9.6
+Jinja2==2.10.1
 MarkupSafe==1.0
